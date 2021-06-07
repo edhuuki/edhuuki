@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Erik Huuki
+
+I'm currently an undergraduate student working to complete an Electrical Engineering degree
+
+I'm currently working at the Artificial heart research lab
+I'm currently learning more about embedded software but really like to explore
+
+email: edh5193@psu.edu
+
 <!--
 **edhuuki/edhuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
