@@ -5,7 +5,7 @@ My name is Erik Huuki
 I'm currently an undergraduate student working to complete an Electrical Engineering degree at Penn State University.
 
 I'm currently working at the Artificial heart research lab
-I'm currently learning more about embedded software but really like to explore
+I'm learning more about embedded software but really like to explore
 
 email: edh5193@psu.edu
 
