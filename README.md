@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo
 
 My name is Erik Huuki
 
