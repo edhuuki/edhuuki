@@ -2,10 +2,11 @@
 
 My name is Erik Huuki
 
-I'm currently an undergraduate student working to complete an Electrical Engineering degree at Penn State University. Graduating 12/17/22. 
-Academic All Big-Ten Swimming.
+I've graduated from Penn State University with a BS in Electrical Engineering in Dec 2022. Academic All Big-Ten Swimming 2022.
+
+Currently working for Texas Instruments as a Test Engineer.
 
 
 
 
-email: edh5193@psu.edu
+email: edhuuki@gmail.com
